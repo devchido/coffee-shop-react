@@ -358,10 +358,10 @@ const Dashboard = () => {
                             <FontAwesomeIcon icon={faPhone} /> +111-222-3333{" "}
                         </a>
                         <a href="#">
-                            <FontAwesomeIcon icon={faEnvelope} /> rutujasamiksha@gmail.com
+                            <FontAwesomeIcon icon={faEnvelope} /> nguyendaitu1610@gmail.com
                         </a>
                         <a href="#">
-                            <FontAwesomeIcon icon={faEnvelope} /> satara, india = 415502
+                            <FontAwesomeIcon icon={faEnvelope} /> Viet Nam
                         </a>
                     </div>
                     <div className="box">
