@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/coffee-shop-react/static/css/main.2712b3fc.css",
-    "main.js": "/coffee-shop-react/static/js/main.0612e293.js",
+    "main.js": "/coffee-shop-react/static/js/main.1d12ba2c.js",
     "static/js/453.c840c82c.chunk.js": "/coffee-shop-react/static/js/453.c840c82c.chunk.js",
     "static/media/menu-bg.jpg": "/coffee-shop-react/static/media/menu-bg.5464c5d0cb1fd2830782.jpg",
     "static/media/book-bg.jpg": "/coffee-shop-react/static/media/book-bg.f21363575b61e6b773a0.jpg",
     "static/media/home-bg.jpg": "/coffee-shop-react/static/media/home-bg.6bc85cdccbd4847e5173.jpg",
     "index.html": "/coffee-shop-react/index.html",
     "main.2712b3fc.css.map": "/coffee-shop-react/static/css/main.2712b3fc.css.map",
-    "main.0612e293.js.map": "/coffee-shop-react/static/js/main.0612e293.js.map",
+    "main.1d12ba2c.js.map": "/coffee-shop-react/static/js/main.1d12ba2c.js.map",
     "453.c840c82c.chunk.js.map": "/coffee-shop-react/static/js/453.c840c82c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2712b3fc.css",
-    "static/js/main.0612e293.js"
+    "static/js/main.1d12ba2c.js"
   ]
 }
